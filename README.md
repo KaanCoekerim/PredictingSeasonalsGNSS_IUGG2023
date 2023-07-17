@@ -7,7 +7,7 @@ Presented at: **IUGG General Assambly Berlin 2023** (July 11th - 20th 2023), Sei
 <sup>1</sup>Ruhr-University Bochum, Institute for Geology, Mineralogy and Geophysics, Bochum, Germany\
 <sup>2</sup>GFZ German Research Centre for Geosciences, Earth System Modelling, Potsdam, Germany
 
-If you want to use this the poster and/or its contents, please let write an Email to the contact adresse givven above.\
+If you want to use this poster and/or its contents, please write an Email to the contact adresse given above.\
 Refernce as: \
 Cökerim, K., Bedford, J., and Dobslaw, H., (July 15th, 2023). Predicting Seasonal Oscillations in Daily GNSS Displacement Time Series from Geophysical Fluid Loading Data using Machine Learning, *IUGG General Assambly Berlin 2023 (July 11th - 20th 2023), Seismo-Geodesy Poster Session*  
 
