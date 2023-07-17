@@ -1,9 +1,15 @@
-# PredictingSeasonalsGNSS_IUGG2023
+# Predicting Seasonal Oscillations in Daily GNSS Displacement Time Series from Geophysical Fluid Loading Data using Machine Learning
+
 Authors: **Kaan Cökerim<sup>1</sup>, Jonathan Bedford<sup>1</sup> & Henryk Dobslaw<sup>2</sup>**\
-Contact: kaan.coekerim@rub.de
+Contact: kaan.coekerim@rub.de\
+Presented at: **IUGG General Assambly Berlin 2023** (July 11th - 20th 2023), Seismo-Geodesy Poster Session
 
 <sup>1</sup>Ruhr-University Bochum, Institute for Geology, Mineralogy and Geophysics, Bochum, Germany\
 <sup>2</sup>GFZ German Research Centre for Geosciences, Earth System Modelling, Potsdam, Germany
+
+If you want to use this the poster and/or its contents, please let write an Email to the contact adresse givven above.\
+Refernce as: \
+Cökerim, K., Bedford, J., and Dobslaw, H., (July 15th, 2023). Predicting Seasonal Oscillations in Daily GNSS Displacement Time Series from Geophysical Fluid Loading Data using Machine Learning, *IUGG General Assambly Berlin 2023 (July 11th - 20th 2023), Seismo-Geodesy Poster Session*  
 
 ## Introduction
 Seasonal oscillations in GNSS time series are a major source of noise for the interpretation of tectonic signals and are difficult to remove with established methods such as regression models, especially with regards to inter-annual wavelength variations of the seasonal signal. Non-tidal fluid loading is shown to be a main cause of the seasonality in tectonic geodesy, though the exact interactions remain to be determined.
